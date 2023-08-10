@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@1,6..12,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Nunito+Sans:ital,opsz,wght@1,6..12,300&display=swap');
+
+body{
+background-image: url('../img/Fondo3.jpg');
+background-size: cover;
+}
+
+.imagen{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+h1 {
+text-align: center;
+background-color: rgb(148, 141, 141);
+color: #005677;
+padding: 2px;
+letter-spacing: 5px;
+text-transform: uppercase;
+font-family: 'Anton', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+}
+h2 {
+background-color: rgb(187, 178, 178);
+color: #005677;
+padding: 5px;
+text-transform: uppercase;
+letter-spacing: 5px;
+font-family: 'Nunito Sans', sans-serif;
+}
+ul {
+line-height: 1.5;   
+}
+.formacion{
+font-family: 'Times New Roman';
+font-size: 16px;
+line-height: 0.5;
+padding-left: 22px;
+}
+.fecha{
+font-weight: bold;
+}
+.forma{
+margin-left: 77px;
+}
+.espacio{
+    height: 12vh;
+}
+.estilo{
+font-family: 'Times New Roman';
+font-weight: bold;
+font-style: italic;
+}
+.lista2{
+list-style-type: none;
+}
+.pie{
+background: #005677;
+padding: 1px;
+font-weight: bold;
+font-size: 21px;
+}
+.pietexto{
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+color: #FFFFFF;
+letter-spacing: 2px;
+}
+.separar{
+letter-spacing: 10px;
+}
+.sobremi{
+font-size: 21px;
+font-weight: bold;
+padding-left: 22px;
+}
+/*---------------------Pagina Sobre mi------------------------------*/
+
+.espaciado{
+margin-bottom: 10px;
+font-size: 18px;
+line-height: 1.5;
+text-align: justify;
+background-color: #FFFFFF;
+}
+
+
+
